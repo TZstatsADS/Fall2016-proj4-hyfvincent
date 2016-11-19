@@ -233,7 +233,7 @@ for (i in c(2:69)){
 features_nafix <- na.roughfix(features)
 features_nafix$label <- as.factor(features_nafix$label)
 
-#multinomial regression
+#multinomial logistic regression
 multi_logi <- multinom(as.formula(formulas), data=features_nafix[1:2000,],MaxNWts=4000)
 
 
