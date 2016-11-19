@@ -1,6 +1,5 @@
 # Project: Words 4 Music
 
 ### Code lib Folder
-
-The lib directory contains various files with function definitions (but only function definitions - no code that actually runs).
+The file final_model.R is the final code which contains feature extraction, training and test part.
 
