@@ -1,4 +1,4 @@
 # Project: Words 4 Music
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The file report_project_4_yh2781.pdf is my presentation.
