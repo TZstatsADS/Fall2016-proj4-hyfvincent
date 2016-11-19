@@ -17,11 +17,11 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 
 ```
 proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
+├── lib/ computation codes
+├── data/ the data which in the courseworks
+├── doc/ presentation files
+├── figs/ figure files produced during the project and running of the codes
+└── output/ intermediate and final computational results
 ```
 
 Please see each subfolder for a README file.
