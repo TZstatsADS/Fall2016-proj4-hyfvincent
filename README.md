@@ -10,7 +10,7 @@ Term: Fall 2016
 + [Data description](doc/readme.html)
 + Contributor's name: Yifei Hu 
 + Projec title: Music association rule mining of lyrics and songs
-+ Project summary: Assign Latent Dirichlet allocation model (LDA) on the frequencies table of the lyrics, choose the number of topic you want and then get the log of conditional probabilities of the words in the dictionary given each topic and the conditional probabilities of the topics given each song. Use multinomial logistic regression to get probabilities assigned to each topic of each song. And use these probabilities and conditional probabilities of the words in the dictionary given each topic to get the probabilities of each word in the dictionary appearing in the song.
++ Project summary: Assign Latent Dirichlet allocation model (LDA) on the frequencies table of the lyrics, choose the number of topic you want and then get the log of conditional probabilities of the words in the dictionary given each topic and the conditional probabilities of the topics given each song. Use multinomial logistic regression to get probabilities assigned to each topic of each song. And use these probabilities and conditional probabilities of the words in the dictionary given each topic to get the probabilities of each word in the dictionary appearing in the song. But I think the features provided do not have an enough high correlation with the lyrics which we can use to predict the rank of lyrics in a song by the features of the song.
 
 	
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
